@@ -12,9 +12,9 @@ public class CustomerShowSwing extends JFrame {
     private int currentCustomerIndex = 0;
 
     private String[] ids = {"1", "2", "3"};
-    private String[] lastNames = {"Chenda", "Smith", "Johnson"};
-    private String[] firstNames = {"Sovisal", "Alice", "Bob"};
-    private String[] phoneNumbers = {"092888999", "1234567890", "9876543210"};
+    private String[] lastNames = {"Chenda", "kom", "Chan"};
+    private String[] firstNames = {"Sovisal", "Lina", "Seyha"};
+    private String[] phoneNumbers = {"092888999", "092000999", "09277776666"};
 
     public CustomerShowSwing() {
         super("Customer Show");
